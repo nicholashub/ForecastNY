@@ -4,5 +4,5 @@ Below are the IPython notebooks I used for [ForecastNY 2017](http://www.forecast
 2. [Non-Smooth Optimization Using pyOpt and AlgoPy](https://nbviewer.jupyter.org/github/nicholashub/ForecastNY-2017/blob/master/Non-Smooth%20Optimization%20Using%20pyOpt%20and%20AlgoPy.ipynb)
 
 <div align="center">
-  <img src="https://github.com/nicholashub/ForecastNY-2017/blob/master/Images/ForecastNY%20Photo.jpg"><br><br>
+  <img src="https://github.com/nicholashub/ForecastNY-2017/blob/master/Images/ForecastNY%20Photo.jpg"><br>
 </div>
